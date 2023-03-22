@@ -1,10 +1,12 @@
-[
-    {
-        "nom":"triki",
-        "age":20
-    },
-    {
-        "nom":"safi",
-        "age":25
-    }
-]
+{
+   "liste": [
+        {
+            "nom":"triki",
+            "age":20
+        },
+        {
+            "nom":"safi",
+            "age":25
+        }
+    ]
+}
